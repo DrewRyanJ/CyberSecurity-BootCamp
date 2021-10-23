@@ -1,0 +1,6 @@
+The dealer and Player that were colluding to scam Lucky Duck was Billy Jones and Mylie Schmidt.
+They both appeared 12 times during the losses.
+
+I found in the Player_Analysis that on March 10, 12, 15 that Mylie Schmidt had been at the Roulette table 13 times between 5 AM and 11 PM.
+I also found that in the Dealer_Analysis Billy Jones was the Dealer during the same day and times as Mylie Schmidt.
+
